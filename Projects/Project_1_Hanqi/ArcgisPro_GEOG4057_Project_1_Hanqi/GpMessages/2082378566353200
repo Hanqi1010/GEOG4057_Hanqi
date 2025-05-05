@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, May 5, 2025 2:28:52 AM</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "F:\OneDrive - Louisiana State University\LSU_Course\GEOG\GEOG 4057 GIS Programming\GEOG4057_Hanqi\Projects\Project_1_Hanqi\Project1_Json2FC.pyt", line 70, in execute
+﻿    importNoTaxJSON(workspace, json_file, out_fc)
+﻿  File "F:\OneDrive - Louisiana State University\LSU_Course\GEOG\GEOG 4057 GIS Programming\GEOG4057_Hanqi\Projects\Project_1_Hanqi\Project_1_Hanqi.py", line 22, in importNoTaxJSON
+﻿    arcpy.CreateFeatureclass_management(workspace, fcname, "POLYGON",spatial_reference=arcpy.SpatialReference(4326))
+﻿  File "C:\Users\hli69\AppData\Local\Programs\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 5659, in CreateFeatureclass
+﻿    raise e
+﻿  File "C:\Users\hli69\AppData\Local\Programs\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 5636, in CreateFeatureclass
+﻿    gp.CreateFeatureclass_management(
+﻿  File "C:\Users\hli69\AppData\Local\Programs\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000354: The name contains invalid characters
+Failed to execute (CreateFeatureclass).
+
+</msg><msg code="-2147467259" type="100">Failed to execute (Tool).</msg><msg code="0" type="3">Failed at Monday, May 5, 2025 2:28:52 AM (Elapsed Time: 0.37 seconds)</msg></messages>
