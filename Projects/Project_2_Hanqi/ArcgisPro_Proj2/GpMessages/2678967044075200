@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, May 12, 2025 12:12:08 AM</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "F:\OneDrive - Louisiana State University\LSU_Course\GEOG\GEOG 4057 GIS Programming\GEOG4057_Hanqi\Projects\Project_2_Hanqi\ArcgisPro_Proj2\ArcgisPro_Proj2.atbx\Script1.tool\tool.script.execute.py", line 58, in &lt;module&gt;
+﻿  File "F:\OneDrive - Louisiana State University\LSU_Course\GEOG\GEOG 4057 GIS Programming\GEOG4057_Hanqi\Projects\Project_2_Hanqi\ArcgisPro_Proj2\ArcgisPro_Proj2.atbx\Script1.tool\tool.script.execute.py", line 35, in getGeeElevation
+﻿IndexError: list index out of range
+</msg><msg code="0" type="0">Failed script Script1...</msg><msg code="-2147467259" type="100">Failed to execute (Script1).</msg><msg code="0" type="3">Failed at Monday, May 12, 2025 12:12:11 AM (Elapsed Time: 3.65 seconds)</msg></messages>
